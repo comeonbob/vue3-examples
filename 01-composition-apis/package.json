@@ -1,0 +1,15 @@
+{
+  "name": "01-composition-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "browser-sync . --directory --watch --no-notify"
+  },
+  "author": "Bob",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.12"
+  }
+}
